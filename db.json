@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "name": "Sara Khaled Ahmed",
+      "startDate": "1/2/2021",
+      "email": "sara@localizer.com",
+      "department": "Hr Department",
+      "position": "Jr. Hr",
+      "id": 1
+    },
+    {
+      "name": "Lara Mohamed Elmahdy",
+      "startDate": "1/2/2021",
+      "email": "sara@localizer.com",
+      "department": "Hr Department",
+      "position": "Sr. Hr",
+      "id": 2
+    },
+    {
+      "name": "Klara Mohamed Elmahdy",
+      "startDate": "1/2/2021",
+      "email": "sara@localizer.com",
+      "department": "Frontend Department",
+      "position": "Sr. Frontend",
+      "id": 3
+    },
+    {
+      "name": "Tara Mohamed Elmahdy",
+      "startDate": "1/2/2021",
+      "email": "sara@localizer.com",
+      "department": "Frontend Department",
+      "position": "Jr. Frontend",
+      "id": 4
+    },
+    {
+      "name": "Yara Mohamed Elmahdy",
+      "startDate": "1/2/2021",
+      "email": "sara@localizer.com",
+      "department": "Backend Department",
+      "position": "Sr. Backend",
+      "id": 5
+    }
+  ]
+}
